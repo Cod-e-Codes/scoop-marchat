@@ -1,6 +1,6 @@
 # scoop-marchat
 
-Unofficial [Scoop](https://scoop.sh/) bucket for [marchat](https://github.com/Cod-e-Codes/marchat).
+Official [Scoop](https://scoop.sh/) bucket for [marchat](https://github.com/Cod-e-Codes/marchat), maintained by the project. This bucket is separate from Scoop default buckets; add it as shown to install.
 
 ## Install
 
